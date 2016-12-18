@@ -1,0 +1,9 @@
+C:\dev\sysABC\Abc.Db\bin\Debug\Abc.Db.dacpac
+C:\dev\sysABC\Abc.Db\bin\Debug\Abc.Db.dll
+C:\dev\sysABC\Abc.Db\bin\Debug\Abc.Db.pdb
+C:\dev\sysABC\Abc.Db\obj\Debug\Abc.Db.dll
+C:\dev\sysABC\Abc.Db\obj\Debug\Abc.Db.pdb
+C:\dev\sysABC\Abc.Db\obj\Debug\Model.xml
+C:\dev\sysABC\Abc.Db\obj\Debug\refactor.xml
+C:\dev\sysABC\Abc.Db\obj\Debug\postdeploy.sql
+C:\dev\sysABC\Abc.Db\obj\Debug\predeploy.sql
